@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-using Sulakore.Communication;
+using Sulakore.Network;
 
 namespace Tanji.Network
 {
